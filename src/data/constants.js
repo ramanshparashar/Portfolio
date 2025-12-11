@@ -1,4 +1,4 @@
-import { aligntogetherLogo, bajajLogo, collegeLogo, schoolLogo, sercLogo, sipaLogo, snakeGame } from "./imageConstants";
+import { aligntogetherLogo, collegeLogo, schoolLogo, sercLogo, sipaLogo} from "./imageConstants";
 import OtpVerification from '../images/OtpVerification.png'
 import Blogify from '../images/Blogify.png'
 import ShortUrl from '../images/shortUrl.png'
